@@ -1,4 +1,4 @@
-package member;
+package com.test.member;
 
 public class member {
 
